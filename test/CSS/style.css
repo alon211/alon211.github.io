@@ -1,0 +1,16 @@
+@import url('https://fonts.font.im/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    /* overflow: hidden; */
+}
+
+.md-sidebar-toc {
+    height: 100%;
+    width: 240px;
+    background: #11101d;
+    padding: 6px 14px;
+
+}

@@ -1,0 +1,57 @@
+[
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/hugo/",
+	"title": "hugo帮助文档",
+	"tags": [],
+	"description": "",
+	"content": "hugo帮助文档 "
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/%E4%B8%89%E8%8F%B1/plc/",
+	"title": "PLC",
+	"tags": [],
+	"description": "",
+	"content": "常用命令 ssdff PLC "
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/%E4%B8%89%E8%8F%B1/",
+	"title": "三菱",
+	"tags": [],
+	"description": "",
+	"content": "常用命令 三菱 "
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/",
+	"title": "Documentation for Hugo Learn Theme",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/hugo/hugo%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/",
+	"title": "Hugo帮助文档",
+	"tags": [],
+	"description": "",
+	"content": "常用命令  创建一个新的站点   hugo new site 新站点名称 注意: 下面所有目录要在该==站点文件夹目录==下进行执行\n  快速定位到该目录执行cmd目录   启动服务器\n   hugo server -t 主题名称 -D  创建目录   hugo new 目录名称/该目录文档.md 主题下载  主题下载方法   cd themes/ git clone https://github.com/matcornic/hugo-theme-learn.git 静态文件 所有出md文件外的文件都存放在该静态文件下，如图片，html，js文件。当在该文件夹内新建文件或文件夹，需要重新生成一下public，利用 hugo -D命令。 示例:\n目录结构: static |── img └── 1.png 路径调用: ！[1](/img/1.png) "
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/hugo/link/",
+	"title": "相关链接",
+	"tags": [],
+	"description": "",
+	"content": "文档链接 hugo快速帮助\n静态文件官方说明\n主题地址\n"
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://github.com/alon211/alon211.github.io/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

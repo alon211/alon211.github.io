@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation for Hugo Learn Theme</title>
+    <link>https://github.com/alon211/alon211.github.io/en/</link>
+    <description>Recent content on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 25 Jul 2021 20:09:39 +0800</lastBuildDate><atom:link href="https://github.com/alon211/alon211.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo帮助文档</title>
+      <link>https://github.com/alon211/alon211.github.io/en/hugo/hugo%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Sun, 25 Jul 2021 20:09:39 +0800</pubDate>
+      
+      <guid>https://github.com/alon211/alon211.github.io/en/hugo/hugo%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/</guid>
+      <description>常用命令  创建一个新的站点   hugo new site 新站点名称 注意: 下面所有目录要在该==站点文件夹目录==下进行执行
+  快速定位到该目录执行cmd目录   启动服务器
+   hugo server -t 主题名称 -D  创建目录   hugo new 目录名称/该目录文档.md 主题下载  主题下载方法   cd themes/ git clone https://github.com/matcornic/hugo-theme-learn.git 静态文件 所有出md文件外的文件都存放在该静态文件下，如图片，html，js文件。当在该文件夹内新建文件或文件夹，需要重新生成一下public，利用 hugo -D命令。 示例:
+目录结构: static |── img └── 1.png 路径调用: ！[1](/img/1.png) </description>
+    </item>
+    
+    <item>
+      <title>相关链接</title>
+      <link>https://github.com/alon211/alon211.github.io/en/hugo/link/</link>
+      <pubDate>Sun, 25 Jul 2021 20:09:39 +0800</pubDate>
+      
+      <guid>https://github.com/alon211/alon211.github.io/en/hugo/link/</guid>
+      <description>文档链接 hugo快速帮助
+静态文件官方说明
+主题地址</description>
+    </item>
+    
+  </channel>
+</rss>
